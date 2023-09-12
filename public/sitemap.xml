@@ -1,0 +1,18 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://next-sitemap-example.com</loc>
+    <lastmod>2023-09-12T03:57:20.617Z</lastmod>
+</url>
+<url>
+    <loc>https://next-sitemap-example.com/page1</loc>
+    <lastmod>2023-09-12T03:57:20.617Z</lastmod>
+</url>
+<url>
+    <loc>https://next-sitemap-example.com/page2</loc>
+    <lastmod>2023-09-12T03:57:20.617Z</lastmod>
+</url>
+<url>
+    <loc>https://next-sitemap-example.com/page2/page2-1</loc>
+    <lastmod>2023-09-12T03:57:20.617Z</lastmod>
+</url>
+</urlset>
